@@ -10,3 +10,4 @@ How to use this repo:
   ```
 - Run reader.py.
 - You're done - the program creates output.html and opens it in the browser.
+  The program also updates output.html every 20 minutes.
