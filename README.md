@@ -1,5 +1,5 @@
 # rss_reader
-Reader I made for your favorite RSS feeds
+Reader for your favorite RSS feeds
 
 How to use this repo:
 - Fill in the feeds (URL) and their associated score in the rssFeeds.txt file (higher score = more priority). For example:
